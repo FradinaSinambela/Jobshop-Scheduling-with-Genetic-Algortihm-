@@ -1,1 +1,1 @@
-# Jobshop-Scheduling-with-Genetic-Algortihm-
+# Jobshop-Scheduling-with-Genetic-Algortihm
